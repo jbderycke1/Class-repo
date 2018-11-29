@@ -1,2 +1,2 @@
-# Class-repo
+# Cdatasciencecoursera
 This is a first test repo
